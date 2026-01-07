@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#banner-one{
+    background-image: url(../images/banner/banner1.png);
+    width: 100%;
+    max-width: 1600px;
+    height: 808px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid purple;
+    
+}
+
+#banner-one .content-one{
+    border: 2px solid black;
+    max-width: 525px;
+    max-height: 426px;
+    margin: 216px 230px 166px 845px ;
+    
+}
